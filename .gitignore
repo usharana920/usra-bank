@@ -34,6 +34,5 @@ build/
 
 
 .gitignore
-.mvn/wrapper/maven-wrapper.properties
+.mvn/
 .mvnw/
-mvnw/
